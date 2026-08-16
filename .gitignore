@@ -1,0 +1,15 @@
+# Java build output
+bin/
+out/
+target/
+
+# IDE metadata
+.idea/
+.vscode/
+.classpath
+.project
+.settings/
+
+# OS/editor files
+.DS_Store
+Thumbs.db
